@@ -1,0 +1,214 @@
+---
+pagetitle: "Rowshni Fatema | Business Analytics Portfolio"
+title-block-banner: false
+---
+::: {#home .hero}
+
+::: {.hero-content}
+
+<p class="eyebrow">BUSINESS ANALYTICS · MELBOURNE</p>
+
+# Hi, I'm  
+# Rowshni Fatema
+
+<p class="hero-description">
+Business Analytics graduate turning data into clear, practical decisions.
+</p>
+
+<a class="primary-button" href="#projects">View my projects →</a>
+
+::: {.skill-tags}
+<span>R</span>
+<span>SQL</span>
+<span>Excel</span>
+<span>Tableau</span>
+<span>Power BI</span>
+:::
+
+:::
+
+::: {.hero-chart}
+
+::: {.chart-title}
+Analytics and business insight
+:::
+
+::: {.chart-area}
+<span class="bar bar-1"></span>
+<span class="bar bar-2"></span>
+<span class="bar bar-3"></span>
+<span class="bar bar-4"></span>
+<span class="bar bar-5"></span>
+<span class="bar bar-6"></span>
+<span class="bar bar-7"></span>
+:::
+
+:::
+
+:::
+
+
+::: {#projects .featured-project}
+
+::: {.project-heading}
+
+<p class="section-label">FEATURED PROJECT</p>
+
+## AHRI Member Retention & Engagement Analysis
+
+An end-to-end analytics project examining member engagement, renewal, progression and rejoining behaviour.
+
+:::
+
+::: {.project-action}
+
+<a class="outline-button" href="#case-study">Explore the analysis →</a>
+
+:::
+
+:::
+
+
+::: {#about .content-section}
+
+<p class="section-label">ABOUT ME</p>
+
+::: {.two-column}
+
+::: {.section-heading}
+## Insight grounded in business context
+
+:::
+
+::: {.section-text}
+
+I recently completed a **Master of Business Analytics at Monash University**. My background combines analytics, customer service, business operations and cross-functional coordination.
+
+I enjoy transforming complex information into useful findings, clear reports and practical recommendations for stakeholders.
+
+I am particularly interested in opportunities involving data analysis, business analysis, planning, reporting and process improvement.
+
+:::
+
+:::
+
+:::
+
+
+::: {#case-study .content-section}
+
+<p class="section-label">CASE STUDY</p>
+
+## Understanding what supports member renewal
+
+The Australian HR Institute internship project examined how engagement, membership characteristics and member journeys relate to renewal.
+
+::: {.metrics}
+
+::: {.metric-card}
+
+### 0.875
+
+Logistic model AUC
+
+:::
+
+::: {.metric-card}
+
+### 3,856
+
+Rejoining members analysed
+
+:::
+
+::: {.metric-card}
+
+### 973
+
+Student journeys reviewed
+
+:::
+
+:::
+
+
+::: {.case-study-cards}
+
+::: {.case-card}
+
+<p class="card-number">01</p>
+
+### The question
+
+How do early engagement, tenure, membership grade and location relate to renewal—and where can action have the greatest value?
+
+:::
+
+::: {.case-card}
+
+<p class="card-number">02</p>
+
+### The approach
+
+Combined CRM, membership and event records, defined clear outcome rules, analysed member cohorts and compared predictive models.
+
+:::
+
+::: {.case-card}
+
+<p class="card-number">03</p>
+
+### The insight
+
+Faster first attendance and participation in three or more events were associated with the strongest first-year renewal outcomes.
+
+:::
+
+:::
+
+:::
+
+
+::: {#skills .content-section}
+
+<p class="section-label">CAPABILITIES</p>
+
+::: {.two-column}
+
+::: {.section-heading}
+
+## From raw information to a decision-ready story
+
+:::
+
+::: {.capability-list}
+
+<div>Data analysis and reporting</div>
+<div>Predictive modelling</div>
+<div>Data quality and validation</div>
+<div>Data visualisation</div>
+<div>Process improvement</div>
+<div>Stakeholder communication</div>
+<div>Business operations</div>
+<div>Customer insights</div>
+
+:::
+
+:::
+
+:::
+
+
+::: {#contact .content-section .contact-section}
+
+<p class="section-label">LET'S CONNECT</p>
+
+## Interested in thoughtful analysis and practical improvement
+
+I am based in Melbourne and open to analyst, business analysis, planning and operations opportunities across Australia.
+
+<!-- Replace # with your LinkedIn URL later. -->
+
+<a class="outline-button" href="#">Connect with me →</a>
+
+:::
