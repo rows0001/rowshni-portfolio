@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+  
+website:
+  title: "Rowshni Fatema"
+  navbar:
+    pinned: true
+    left:
+      - text: "RF"
+        href: index.qmd
+    right:
+      - text: Home
+        href: index.qmd#home
+      - text: Projects
+        href: index.qmd#projects
+      - text: Skills
+        href: index.qmd#skills
+      - text: Contact
+        href: index.qmd#contact
+  page-footer:
+    left: "© 2026 Rowshni Fatema"
+    right: "Built with Quarto"
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full
+    
+execute:
+  freeze: auto
