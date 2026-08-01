@@ -47,6 +47,12 @@ main.content,
   display: none;
 }
 
+h1,
+h2,
+h3 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
 
 /* ---------- Navigation ---------- */
 
@@ -217,8 +223,9 @@ main.content,
 }
 
 .bar {
-  width: 8%;
-  max-width: 34px;
+  display: block;
+  flex: 0 1 34px;
+  min-width: 16px;
   background-color: var(--sage);
   border-radius: 4px 4px 0 0;
   transition: background-color 180ms ease;
