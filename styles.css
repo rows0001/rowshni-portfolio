@@ -68,12 +68,14 @@ h3 {
 .navbar-brand {
   width: 54px;
   height: 54px;
+  min-width: 54px;
   padding: 0;
   border: 1.5px solid var(--dark-sage);
   border-radius: 50%;
   display: grid;
   place-items: center;
-  color: var(--dark-sage);
+  overflow: hidden;
+  color: var(--dark-sage) !important;
   font-family: Georgia, serif;
   font-size: 20px;
 }
