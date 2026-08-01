@@ -3,21 +3,24 @@ project:
   output-dir: _site
   
 website:
-  title: "Rowshni Fatema"
+  title: "RF"
   navbar:
     pinned: true
     left:
-      - text: "RF"
+      - text: "Rowshni Fatema"
         href: index.qmd
     right:
       - text: Home
         href: index.qmd#home
+      - text: About
+        href: index.qmd#about
       - text: Projects
         href: index.qmd#projects
       - text: Skills
         href: index.qmd#skills
       - text: Contact
         href: index.qmd#contact
+        
   page-footer:
     left: "© 2026 Rowshni Fatema"
     right: "Built with Quarto"
