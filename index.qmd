@@ -207,8 +207,12 @@ Faster first attendance and participation in three or more events were associate
 
 I am based in Melbourne and open to analyst, business analysis, planning and operations opportunities across Australia.
 
-<!-- Replace # with your LinkedIn URL later. -->
+::: {.contact-buttons}
 
-<a class="outline-button" href="#">Connect with me →</a>
+<a class="primary-button" href="mailto:rows.workspace@gmail.com">Email me →</a>
+
+<a class="outline-button" href="https://www.linkedin.com/in/rowshni-fatema/" target="_blank" rel="noopener noreferrer">LinkedIn →</a>
+
+:::
 
 :::
